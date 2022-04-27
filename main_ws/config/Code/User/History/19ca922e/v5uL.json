@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.fontFamily": "'Fira Code'",
+    "terminal.integrated.fontSize": 12
+}
