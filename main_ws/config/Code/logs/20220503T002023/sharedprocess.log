@@ -1,0 +1,9 @@
+[2022-05-03 00:20:25.704] [sharedprocess] [info] vscode-icons-team.vscode-icons 11.11.0 Running post uninstall script
+[2022-05-03 00:20:25.867] [sharedprocess] [info] vscode-icons-team.vscode-icons 11.11.0 Finished running post uninstall script
+[2022-05-03 00:20:26.036] [sharedprocess] [info] Starting worker process with pid 49676 (type: fileWatcher, window: 1).
+[2022-05-03 00:20:26.069] [sharedprocess] [info] Deleted from disk rajeshwaran.developer-theme-dark /var/home/iaacornus/.vscode/extensions/rajeshwaran.developer-theme-dark-3.0.1
+[2022-05-03 00:20:26.072] [sharedprocess] [info] Deleted from disk vscode-icons-team.vscode-icons /var/home/iaacornus/.vscode/extensions/vscode-icons-team.vscode-icons-11.11.0
+[2022-05-03 00:20:26.166] [sharedprocess] [info] Deleted from disk github.vscode-pull-request-github /var/home/iaacornus/.vscode/extensions/github.vscode-pull-request-github-0.40.0
+[2022-05-03 00:20:26.528] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /var/home/iaacornus/.vscode/extensions/ms-python.vscode-pylance-2022.4.2
+[2022-05-03 00:25:11.794] [sharedprocess] [info] Worker process with pid 49676 terminated normally (type: fileWatcher, window: 1).
+[2022-05-03 00:25:12.751] [sharedprocess] [info] Starting worker process with pid 50256 (type: fileWatcher, window: 1).

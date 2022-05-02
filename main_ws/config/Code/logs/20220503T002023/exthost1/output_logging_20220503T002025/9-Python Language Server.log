@@ -1,0 +1,12 @@
+[Info  - 12:20:28 AM] (49768) Pylance language server 2022.4.3 (pyright 88f2a424) starting
+[Info  - 12:20:28 AM] (49768) Server root directory: /var/home/iaacornus/.vscode/extensions/ms-python.vscode-pylance-2022.4.3/dist
+[Info  - 12:20:28 AM] (49768) No configuration file found.
+[Info  - 12:20:28 AM] (49768) No pyproject.toml file found.
+[Info  - 12:20:28 AM] (49768) Setting pythonPath for service "project_repo": "/bin/python"
+[Warn  - 12:20:28 AM] (49768) stubPath /var/home/iaacornus/Documents/project_code_base/project_repo/typings is not a valid directory.
+[Info  - 12:20:28 AM] (49768) Assuming Python version 3.10
+[Info  - 12:20:28 AM] (49768) Assuming Python platform Linux
+[Info  - 12:20:28 AM] (49768) Searching for source files
+[Info  - 12:20:28 AM] (49768) Found 4 source files
+[Info  - 12:20:28 AM] (49768) Background analysis(1) root directory: /var/home/iaacornus/.vscode/extensions/ms-python.vscode-pylance-2022.4.3/dist
+[Info  - 12:20:28 AM] (49768) Background analysis(1) started

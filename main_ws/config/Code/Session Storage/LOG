@@ -1,2 +1,3 @@
-2022/04/28-01:21:35.817 18d1 Creating DB /var/home/iaacornus/.config/Code/Session Storage since it was missing.
-2022/04/28-01:21:35.834 18d1 Reusing MANIFEST /var/home/iaacornus/.config/Code/Session Storage/MANIFEST-000001
+2022/05/03-00:37:53.619 c447 Reusing MANIFEST /var/home/iaacornus/.config/Code/Session Storage/MANIFEST-000001
+2022/05/03-00:37:53.619 c447 Recovering log #3
+2022/05/03-00:37:53.619 c447 Reusing old log /var/home/iaacornus/.config/Code/Session Storage/000003.log 

@@ -1,0 +1,12 @@
+[2022-05-03 00:20:25.337] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-03 00:20:25.365] [renderer1] [warning] [streetsidesoftware.code-spell-checker]: Cannot register 'cSpell.enableFiletypes'. This property is already registered.
+[2022-05-03 00:20:25.517] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-03 00:20:26.612] [renderer1] [error] [Extension Host] (node:49611) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-05-03 00:25:12.923] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-03 00:25:13.020] [renderer1] [info] [eamodio.gitlens]: `git.commit` is not a valid menu identifier
+[2022-05-03 00:25:13.456] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-03 00:25:15.197] [renderer1] [warning] [streetsidesoftware.code-spell-checker]: Cannot register 'cSpell.enableFiletypes'. This property is already registered.
+[2022-05-03 00:25:15.286] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-03 00:25:15.773] [renderer1] [error] [Extension Host] (node:50255) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

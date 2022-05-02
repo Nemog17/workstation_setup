@@ -1,0 +1,63 @@
+[2022-05-02 23:53:04.513] [sharedprocess] [info] Starting worker process with pid 40612 (type: fileWatcher, window: 1).
+[2022-05-02 23:53:07.586] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-02 23:53:08.733] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-02 23:53:12.158] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /var/home/iaacornus/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.4.3
+[2022-05-02 23:53:14.239] [sharedprocess] [info] Extracted extension to /var/home/iaacornus/.vscode/extensions/.821696ff-0c81-4b21-8a21-94e27b928b82: ms-python.vscode-pylance
+[2022-05-02 23:53:14.246] [sharedprocess] [info] Renamed to /var/home/iaacornus/.vscode/extensions/ms-python.vscode-pylance-2022.4.3
+[2022-05-02 23:53:14.247] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-02 23:53:14.251] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-05-02 23:53:29.671] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-05-02 23:53:29.680] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-05-02 23:53:32.051] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /var/home/iaacornus/.config/Code/CachedExtensionVSIXs/eamodio.gitlens-12.0.6
+[2022-05-02 23:53:32.474] [sharedprocess] [info] Extracted extension to /var/home/iaacornus/.vscode/extensions/.2873da5d-a7c5-4b1d-8233-9195b504e06e: eamodio.gitlens
+[2022-05-02 23:53:32.491] [sharedprocess] [info] Renamed to /var/home/iaacornus/.vscode/extensions/eamodio.gitlens-12.0.6
+[2022-05-02 23:53:32.497] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-05-02 23:53:32.505] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-05-02 23:57:27.109] [sharedprocess] [info] Worker process with pid 40612 terminated normally (type: fileWatcher, window: 1).
+[2022-05-02 23:57:28.115] [sharedprocess] [info] Starting worker process with pid 41195 (type: fileWatcher, window: 1).
+[2022-05-03 00:01:08.217] [sharedprocess] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-05-03 00:01:08.222] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2022-05-03 00:01:10.177] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /var/home/iaacornus/.config/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.40.0
+[2022-05-03 00:01:10.228] [sharedprocess] [info] Extracted extension to /var/home/iaacornus/.vscode/extensions/.385f5a5e-2f06-48f4-b6df-0fce5368a971: github.vscode-pull-request-github
+[2022-05-03 00:01:10.243] [sharedprocess] [info] Renamed to /var/home/iaacornus/.vscode/extensions/github.vscode-pull-request-github-0.40.0
+[2022-05-03 00:01:10.245] [sharedprocess] [info] Extracting completed. github.vscode-pull-request-github
+[2022-05-03 00:01:10.248] [sharedprocess] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-05-03 00:11:03.853] [sharedprocess] [info] Uninstalling extension: github.vscode-pull-request-github
+[2022-05-03 00:11:04.049] [sharedprocess] [info] Detected extension removed from another source github.vscode-pull-request-github
+[2022-05-03 00:11:04.766] [sharedprocess] [info] Successfully uninstalled extension: github.vscode-pull-request-github
+[2022-05-03 00:11:16.693] [sharedprocess] [info] Getting Manifest... platformio.platformio-ide
+[2022-05-03 00:11:16.701] [sharedprocess] [info] Installing extension: platformio.platformio-ide
+[2022-05-03 00:11:17.529] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-05-03 00:11:18.433] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-05-03 00:11:26.071] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /var/home/iaacornus/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.9.8-linux-x64
+[2022-05-03 00:11:27.730] [sharedprocess] [info] Extracted extension to /var/home/iaacornus/.vscode/extensions/.08029120-0bee-4595-bb38-c23fefef75c8: ms-vscode.cpptools
+[2022-05-03 00:11:27.742] [sharedprocess] [info] Renamed to /var/home/iaacornus/.vscode/extensions/ms-vscode.cpptools-1.9.8-linux-x64
+[2022-05-03 00:11:27.744] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-05-03 00:11:29.674] [sharedprocess] [info] Downloaded extension: platformio.platformio-ide /var/home/iaacornus/.config/Code/CachedExtensionVSIXs/platformio.platformio-ide-2.4.3
+[2022-05-03 00:11:30.436] [sharedprocess] [info] Extracted extension to /var/home/iaacornus/.vscode/extensions/.57a225c8-577a-4d34-9ba5-9da0bba6216b: platformio.platformio-ide
+[2022-05-03 00:11:30.442] [sharedprocess] [info] Renamed to /var/home/iaacornus/.vscode/extensions/platformio.platformio-ide-2.4.3
+[2022-05-03 00:11:30.443] [sharedprocess] [info] Extracting completed. platformio.platformio-ide
+[2022-05-03 00:11:30.447] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-05-03 00:11:30.447] [sharedprocess] [info] Extension installed successfully: platformio.platformio-ide
+[2022-05-03 00:12:06.792] [sharedprocess] [info] Worker process with pid 41195 terminated normally (type: fileWatcher, window: 1).
+[2022-05-03 00:12:07.920] [sharedprocess] [info] Starting worker process with pid 46820 (type: fileWatcher, window: 1).
+[2022-05-03 00:14:41.419] [sharedprocess] [info] Getting Manifest... rajeshwaran.developer-theme-dark
+[2022-05-03 00:14:41.427] [sharedprocess] [info] Installing extension: rajeshwaran.developer-theme-dark
+[2022-05-03 00:14:43.480] [sharedprocess] [info] Downloaded extension: rajeshwaran.developer-theme-dark /var/home/iaacornus/.config/Code/CachedExtensionVSIXs/rajeshwaran.developer-theme-dark-3.0.1
+[2022-05-03 00:14:44.103] [sharedprocess] [info] Extracted extension to /var/home/iaacornus/.vscode/extensions/.b763e256-9013-4bf3-b197-ce27bcae1b8f: rajeshwaran.developer-theme-dark
+[2022-05-03 00:14:44.110] [sharedprocess] [info] Renamed to /var/home/iaacornus/.vscode/extensions/rajeshwaran.developer-theme-dark-3.0.1
+[2022-05-03 00:14:44.113] [sharedprocess] [info] Extracting completed. rajeshwaran.developer-theme-dark
+[2022-05-03 00:14:44.114] [sharedprocess] [info] Extension installed successfully: rajeshwaran.developer-theme-dark
+[2022-05-03 00:16:00.268] [sharedprocess] [info] Getting Manifest... vscode-icons-team.vscode-icons
+[2022-05-03 00:16:00.278] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2022-05-03 00:16:02.149] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /var/home/iaacornus/.config/Code/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-11.11.0
+[2022-05-03 00:16:02.886] [sharedprocess] [info] Extracted extension to /var/home/iaacornus/.vscode/extensions/.f556a6c8-7d74-4620-a73d-05d03167b620: vscode-icons-team.vscode-icons
+[2022-05-03 00:16:02.891] [sharedprocess] [info] Renamed to /var/home/iaacornus/.vscode/extensions/vscode-icons-team.vscode-icons-11.11.0
+[2022-05-03 00:16:02.892] [sharedprocess] [info] Extracting completed. vscode-icons-team.vscode-icons
+[2022-05-03 00:16:02.892] [sharedprocess] [info] Extension installed successfully: vscode-icons-team.vscode-icons
+[2022-05-03 00:16:39.009] [sharedprocess] [info] Uninstalling extension: rajeshwaran.developer-theme-dark
+[2022-05-03 00:16:39.210] [sharedprocess] [info] Detected extension removed from another source rajeshwaran.developer-theme-dark
+[2022-05-03 00:16:39.822] [sharedprocess] [info] Successfully uninstalled extension: rajeshwaran.developer-theme-dark
+[2022-05-03 00:17:03.998] [sharedprocess] [info] Uninstalling extension: vscode-icons-team.vscode-icons
+[2022-05-03 00:17:04.169] [sharedprocess] [info] Detected extension removed from another source vscode-icons-team.vscode-icons
+[2022-05-03 00:17:04.705] [sharedprocess] [info] Successfully uninstalled extension: vscode-icons-team.vscode-icons

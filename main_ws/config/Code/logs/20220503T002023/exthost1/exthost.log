@@ -1,0 +1,52 @@
+[2022-05-03 00:20:25.978] [exthost] [info] Extension host with pid 49611 started
+[2022-05-03 00:20:25.978] [exthost] [info] Skipping acquiring lock for /var/home/iaacornus/.config/Code/User/workspaceStorage/12893bc41659930965bd1f4a954d03c6.
+[2022-05-03 00:20:26.085] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-03 00:20:26.089] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-03 00:20:26.166] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-03 00:20:26.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-03 00:20:26.366] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-03 00:20:26.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-03 00:20:26.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-03 00:20:26.371] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: '*', root cause: platformio.platformio-ide
+[2022-05-03 00:20:26.473] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-03 00:20:26.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-03 00:20:26.674] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-05-03 00:20:26.759] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-03 00:20:26.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-03 00:20:26.955] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: true, activationEvent: '*'
+[2022-05-03 00:20:27.201] [exthost] [info] Eager extensions activated
+[2022-05-03 00:20:27.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:20:27.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:20:27.262] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:20:27.266] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:20:27.311] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:20:27.322] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:20:27.351] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:20:44.767] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-03 00:21:49.438] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-03 00:22:13.186] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-03 00:25:11.779] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-03 00:25:11.818] [exthost] [warning] {"name":"Canceled"}
+[2022-05-03 00:25:11.828] [exthost] [info] Extension host with pid 49611 exiting with code 0
+[2022-05-03 00:25:13.706] [exthost] [info] Extension host with pid 50255 started
+[2022-05-03 00:25:13.706] [exthost] [info] Skipping acquiring lock for /var/home/iaacornus/.config/Code/User/workspaceStorage/f8f3ef0102c6d82905de7216e24358cd.
+[2022-05-03 00:25:13.787] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-03 00:25:13.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-03 00:25:13.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-05-03 00:25:13.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-03 00:25:13.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-03 00:25:13.823] [exthost] [info] Eager extensions activated
+[2022-05-03 00:25:13.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:25:13.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:25:13.831] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:25:13.867] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:25:13.877] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:25:13.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-03 00:25:15.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-05-03 00:25:15.406] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:25:15.409] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*', root cause: platformio.platformio-ide
+[2022-05-03 00:25:15.437] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-03 00:25:15.653] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: '*'
+[2022-05-03 00:37:53.614] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-03 00:37:53.638] [exthost] [warning] {"name":"Canceled"}
+[2022-05-03 00:37:53.640] [exthost] [info] Extension host with pid 50255 exiting with code 0

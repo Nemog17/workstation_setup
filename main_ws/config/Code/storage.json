@@ -2,7 +2,8 @@
     "telemetry.machineId": "381134c5d9a580c0b2c2f91340d8bafea5269af4091bf89c13d0530d54d23a60",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/var/home/iaacornus/.config/Code/Backups/1651079551005",
+            "folder": "file:///var/home/iaacornus/Storage/workstation_setup",
+            "backupPath": "/var/home/iaacornus/.config/Code/Backups/6e7d5a7db3c2d1b3682b9491d9cc61e4",
             "uiState": {
                 "mode": 0,
                 "x": 448,
@@ -75,7 +76,34 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/var/home/iaacornus/Storage/workstation_setup",
+                                        "external": "file:///var/home/iaacornus/Storage/workstation_setup",
+                                        "path": "/var/home/iaacornus/Storage/workstation_setup",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Storage/workstation_setup"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///var/home/iaacornus/Documents/project_code_base/project_repo",
+                                        "path": "/var/home/iaacornus/Documents/project_code_base/project_repo",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/project_code_base/project_repo"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -114,13 +142,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -204,13 +230,15 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -247,6 +275,22 @@
                         "label": "&&Copy"
                     },
                     {
+                        "id": "submenuitem.25",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File Url"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File Url From..."
+                                }
+                            ]
+                        }
+                    },
+                    {
                         "id": "editor.action.clipboardPasteAction",
                         "label": "&&Paste"
                     },
@@ -255,13 +299,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -427,8 +469,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -444,7 +485,8 @@
                                         "items": [
                                             {
                                                 "id": "workbench.action.positionPanelBottom",
-                                                "label": "Bottom"
+                                                "label": "Bottom",
+                                                "checked": true
                                             },
                                             {
                                                 "id": "workbench.action.positionPanelLeft",
@@ -452,8 +494,7 @@
                                             },
                                             {
                                                 "id": "workbench.action.positionPanelRight",
-                                                "label": "Right",
-                                                "checked": true
+                                                "label": "Right"
                                             }
                                         ]
                                     }
@@ -598,10 +639,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -626,7 +663,7 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "&&Word Wrap",
-                        "enabled": false
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -654,8 +691,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -976,7 +1012,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1172,6 +1209,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1328,8 +1370,9 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G",
-                "userSettingsLabel": "ctrl+shift+g"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+g g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1523,6 +1566,10 @@
                 "label": "Ctrl+Shift+5",
                 "userSettingsLabel": "ctrl+shift+5"
             },
+            "workbench.action.tasks.runTask": {
+                "label": "Ctrl+Alt+T",
+                "userSettingsLabel": "ctrl+alt+t"
+            },
             "workbench.action.tasks.build": {
                 "label": "Ctrl+Shift+B",
                 "userSettingsLabel": "ctrl+shift+b"
@@ -1537,5 +1584,6 @@
                 "userSettingsLabel": "ctrl+shift+i"
             }
         }
-    }
+    },
+    "pickerWorkingDir": "/var/home/iaacornus/Storage"
 }

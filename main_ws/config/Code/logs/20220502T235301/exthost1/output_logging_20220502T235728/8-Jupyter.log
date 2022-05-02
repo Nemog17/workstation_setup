@@ -1,0 +1,27 @@
+Visual Studio Code (1.66.2, undefined, desktop)
+Jupyter Extension Version: 2022.3.1000901801.
+Python Extension Version: 2022.4.1.
+Workspace folder ~/Documents/project_code_base/project_repo
+Info 23:59:15: ZMQ install verified.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 23:59:15: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 23:59:15: Getting activation commands for /bin/python are not cached. May take a while.
+Info 23:59:15: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+Info 23:59:15: Process Execution: > /bin/python -c "import pip"
+> /bin/python -c "import pip"
+Info 00:03:56: Creating controller for jupyter-notebook with interpreter /bin/python
+Info 00:03:56: Find preferred kernel for ~/Documents/project_code_base/project_repo/project_5/shared_modules/main.ipynb with metadata {"language_info":{"name":"python"},"orig_nbformat":4} & preferred interpreter /bin/python
+Info 00:03:56: findKernel found Python 3.10.4 64-bit
+Info 00:03:56: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: ~/Documents/project_code_base/project_repo/project_5/shared_modules/main.ipynb
+Info 00:03:56: TargetController found ID: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher for document ~/Documents/project_code_base/project_repo/project_5/shared_modules/main.ipynb
+Info 00:03:56: Setting controller affinity for ~/Documents/project_code_base/project_repo/project_5/shared_modules/main.ipynb .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher
+Info 00:03:56: Registering dummy command feature
+Info 00:12:06: Shutting down notebooks for 2303dada-2b0e-4031-aa4a-20be004eeacb
+Info 00:12:06: Disposing HostJupyterExecution c66ef87c-9b06-4923-b1b9-a1b156190550
+Info 00:12:06: Disposing super HostJupyterExecution c66ef87c-9b06-4923-b1b9-a1b156190550
+Info 00:12:06: Disposing HostJupyterExecution c66ef87c-9b06-4923-b1b9-a1b156190550
+Info 00:12:06: Finished disposing HostJupyterExecution  c66ef87c-9b06-4923-b1b9-a1b156190550
+Info 00:12:06: Cleaning up server cache c66ef87c-9b06-4923-b1b9-a1b156190550
+Info 00:12:06: Finished disposing HostJupyterExecution  c66ef87c-9b06-4923-b1b9-a1b156190550
