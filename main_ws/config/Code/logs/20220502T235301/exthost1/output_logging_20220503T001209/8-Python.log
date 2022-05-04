@@ -1,8 +1,0 @@
-Telemetry level is off
-Experiments are disabled, only manually opted experiments are active.
-> conda info --json
-> /bin/python ~/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/interpreterInfo.py
-> /usr/share/anaconda/bin/conda info --json
-Python interpreter path: /bin/python
-> /usr/bin/python ~/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/interpreterInfo.py
-Starting Pylance language server.

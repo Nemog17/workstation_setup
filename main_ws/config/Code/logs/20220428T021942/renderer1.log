@@ -1,3 +1,0 @@
-[2022-04-28 02:19:43.850] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
-[2022-04-28 02:19:43.871] [renderer1] [warning] [streetsidesoftware.code-spell-checker]: Cannot register 'cSpell.enableFiletypes'. This property is already registered.
-[2022-04-28 02:19:44.163] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
